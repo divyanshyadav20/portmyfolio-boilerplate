@@ -1,0 +1,79 @@
+{
+    "websiteTitle": "Portmyfolio Template",
+    "websiteDescription": "A portfolio template for all.",
+    "websiteUrl": "http://localhost:3000",
+    "name": "Divyansh",
+    "designation": "Software Engineer",
+    "avatar": "/me.png",
+    "navigation": [
+      {
+        "pages": [
+          {
+            "name": "Home",
+            "href": "/",
+            "icon": "Home",
+            "keyBoardShortCut": "1"
+          },
+          {
+            "name": "writing",
+            "href": "/writing",
+            "icon": "NotebookPen",
+            "keyBoardShortCut": "2"
+          },
+          {
+            "name": "Hello",
+            "href": "/hello",
+            "icon": "Navigation"
+          },
+          {
+            "name": "Journeys",
+            "href": "/journey",
+            "icon": "<Navigation />",
+            "keyBoardShortCut": "3",
+            "subNavigation": [
+              {
+                "name": "Stack",
+                "href": "/stack",
+                "description": "My tech stack"
+              },
+              {
+                "name": "Bookmarks",
+                "href": "/bookmarks",
+                "description": "My bookmarks"
+              }
+            ]
+          },
+          {
+            "name": "Stack",
+            "href": "/stack",
+            "icon": "<Layers3 />",
+            "keyBoardShortCut": "4"
+          },
+          {
+            "name": "Bookmarks",
+            "href": "/bookmarks",
+            "icon": "<Bookmark />",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ],
+    "footerSocialLinks": [
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/DivyanshYadav",
+        "icon": "/social/twitter.svg"
+      },
+      {
+        "name": "Github",
+        "href": "https://twitter.com/DivyanshYadav",
+        "icon": "/social/github.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://twitter.com/DivyanshYadav",
+        "icon": "/social/linkedIn.svg"
+      }
+    ]
+  }
+  
