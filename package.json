@@ -1,0 +1,16 @@
+{
+  "name": "portmyfolio-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "portmyfolio dev",
+    "start": "portmyfolio start",
+    "build": "portmyfolio build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "portmyfolio": "^1.1.1"
+  }
+}
