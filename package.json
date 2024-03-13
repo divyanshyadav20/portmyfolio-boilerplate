@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "portmyfolio": "^1.1.1"
+    "portmyfolio": "^1.1.3"
   }
 }
