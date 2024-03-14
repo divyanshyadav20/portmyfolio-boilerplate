@@ -1,18 +1,15 @@
 {
   "name": "portmyfolio-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Create your own portfolio website with this Portmyfolio boilerplate",
   "scripts": {
     "dev": "portmyfolio dev",
     "start": "portmyfolio start",
     "build": "portmyfolio build"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "next": "^14.1.3",
-    "portmyfolio": "^1.1.4"
+    "portmyfolio": "^1.1.7"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18"

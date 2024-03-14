@@ -1,10 +1,10 @@
 {
-  "websiteTitle": "Portmyfolio Template",
+  "websiteTitle": "Portmyfolio",
   "websiteDescription": "A portfolio template for all.",
   "websiteUrl": "http://localhost:3000",
-  "name": "Divyansh",
+  "name": "John Doe",
   "designation": "Software Engineer",
-  "avatar": "/me.png",
+  "avatar": "/me.jpg",
   "navigation": [
     {
       "pages": [
@@ -15,7 +15,7 @@
           "keyBoardShortCut": "1"
         },
         {
-          "name": "writing",
+          "name": "Writing",
           "href": "/writing",
           "icon": "NotebookPen",
           "keyBoardShortCut": "2"
@@ -37,12 +37,6 @@
               "description": "My bookmarks"
             }
           ]
-        },
-        {
-          "name": "Stack",
-          "href": "/stack",
-          "icon": "<Layers3 />",
-          "keyBoardShortCut": "4"
         },
         {
           "name": "Bookmarks",
