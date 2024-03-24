@@ -39,6 +39,11 @@
           ]
         },
         {
+          "name": "Stack",
+          "href": "/stack",
+          "icon": "<Bookmark />"
+        },
+        {
           "name": "Bookmarks",
           "href": "/bookmarks",
           "icon": "<Bookmark />",
