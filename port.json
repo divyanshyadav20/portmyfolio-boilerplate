@@ -10,7 +10,7 @@
       "pages": [
         {
           "name": "Home",
-          "href": "/",
+          "href": "/home",
           "icon": "Home",
           "keyBoardShortCut": "1"
         },
