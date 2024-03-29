@@ -10,7 +10,7 @@
       "pages": [
         {
           "name": "Home",
-          "href": "/",
+          "href": "/home",
           "icon": "Home",
           "keyBoardShortCut": "1"
         },
@@ -37,6 +37,11 @@
               "description": "My bookmarks"
             }
           ]
+        },
+        {
+          "name": "Stack",
+          "href": "/stack",
+          "icon": "<Bookmark />"
         },
         {
           "name": "Bookmarks",
