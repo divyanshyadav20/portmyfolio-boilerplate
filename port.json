@@ -5,6 +5,22 @@
   "name": "John Doe",
   "designation": "Software Engineer",
   "avatar": "/me.jpg",
+  "colors": {
+    "light": {
+      "primary": "#fff",
+      "secondary": "#000",
+      "tertiary": "#f8f9fa",
+      "accent": "#dee2e6",
+      "muted": "#6c757d"
+    },
+    "dark": {
+      "primary": "#000",
+      "secondary": "#fff",
+      "tertiary": "#22223b",
+      "accent": "#495057",
+      "muted": "#6c757d"
+    }
+  },
   "navigation": [
     {
       "pages": [
