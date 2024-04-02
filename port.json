@@ -71,17 +71,17 @@
   "footerSocialLinks": [
     {
       "name": "Twitter",
-      "href": "https://twitter.com/DivyanshYadav",
+      "href": "https://twitter.com/yadivyansh",
       "icon": "/social/twitter.svg"
     },
     {
       "name": "Github",
-      "href": "https://twitter.com/DivyanshYadav",
+      "href": "https://github.com/divyanshyadav20",
       "icon": "/social/github.svg"
     },
     {
       "name": "LinkedIn",
-      "href": "https://twitter.com/DivyanshYadav",
+      "href": "https://www.linkedin.com/in/divyansh-yadav-60291b1b6/",
       "icon": "/social/linkedIn.svg"
     }
   ]
