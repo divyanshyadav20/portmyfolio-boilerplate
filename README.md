@@ -6,15 +6,19 @@ Click on `Use this template` -> `Create a new repository` in the top right corne
 
 ## Development
 
+Install the `portmyfolio` package globally
+
 ```bash
-npm i
+npm i -g portmyfolio
 ```
 
 Run the following command at the root of your directory where the `port.json` is. It will start the development server
 
 ```bash
-npm run dev
+portmyfolio dev
 ```
+
+For more info about the package visit the official [documentation](https://docs.portmyfolio.com).
 
 ## Deployment
 
