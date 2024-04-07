@@ -18,7 +18,7 @@ Run the following command at the root of your directory where the `port.json` is
 portmyfolio dev
 ```
 
-For more info about the package visit the official [documentation](https://docs.portmyfolio.com).
+For more info about the package visit the official [documentation](https://docs.portmyfolio.com/development#portmyfolio-cli).
 
 ## Deployment
 
